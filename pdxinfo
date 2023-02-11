@@ -1,0 +1,9 @@
+name=Test
+author=Christoph Prenissl
+description=Just a small mini-game
+bundleID=com.celrage.test
+version=0.1.1
+buildNumber=1
+imagePath=source/images
+launchSoundPath=source/sounds
+contentWarning=This game contains bugs.
